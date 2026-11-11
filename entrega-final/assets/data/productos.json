@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "PlayStation 5 Slim",
+    "categoria": "consolas",
+    "precio": 850000,
+    "imagen": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400&q=80"
+  },
+  {
+    "id": 2,
+    "nombre": "Xbox Series X",
+    "categoria": "consolas",
+    "precio": 790000,
+    "imagen": "https://images.unsplash.com/photo-1621252179027-94459d278660?w=400&q=80"
+  },
+  {
+    "id": 3,
+    "nombre": "Nintendo Switch OLED",
+    "categoria": "consolas",
+    "precio": 520000,
+    "imagen": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=400&q=80"
+  },
+  {
+    "id": 4,
+    "nombre": "EA Sports FC 25",
+    "categoria": "juegos",
+    "precio": 75000,
+    "imagen": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&q=80"
+  },
+  {
+    "id": 5,
+    "nombre": "Grand Theft Auto V",
+    "categoria": "juegos",
+    "precio": 45000,
+    "imagen": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&q=80"
+  },
+  {
+    "id": 6,
+    "nombre": "Joystick DualSense PS5",
+    "categoria": "accesorios",
+    "precio": 110000,
+    "imagen": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=400&q=80"
+  }
+]
